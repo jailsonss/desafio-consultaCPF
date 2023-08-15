@@ -1,6 +1,6 @@
 # Desafio: Criando um Programa para COnsulta de CPF com Ruby
 
-Repositório referente ao desafio "Criando um Programa para COnsulta de CPF com Ruby", da Formação Ruby Developer.
+Repositório referente ao desafio "Criando um Programa para Consulta de CPF com Ruby", da Formação Ruby Developer.
 
 <h3>Objetivo Geral:</h3>
 Criar um programa na linguagem Ruby utilizando uma gem específica
